@@ -1,0 +1,43 @@
+{
+  "item": {
+    "id": "979843618033",
+    "restype": "watchface",
+    "name": "Wed",
+    "description": "大多数表盘的主视觉都是时间——把那些数字放到最大，让它成为第一眼就能读到的信息。但也有另一些内容，比如星期。它在某些特定的时间点里，会突然变成你最想第一时间知道的那件事。所以这一次，我们把星期放到了最大。\n\n「星期」两个字横向铺满整屏，巨型星期数沉到最下面；时分只负责定位，日期收成一行细灰。纯黑底、米白字、金黄做重音，除此之外的颜色一律不给。一眼看完，就知道今天周几。\n\n这让我想起学生时代：星期几？又能盼着周末回去歇一歇；下一节课什么时候？这一周为数不多的体育课，是星期几那一天。说不上什么大道理，只是想留一种感觉——看一眼，就知道今天周几，还能不能松口气。\n\n息屏显示另排了一版：黑底低灰，装饰笔画全部收掉，只留下星期、时分和日期，按一下表冠，主盘与息屏互切。熄屏，不熄星期。\n\n红米手表 5 / 6、小米手环 9 / 9 Pro / 10 / 10 Pro 六种屏形共用同一套版面，配比按各自画布等比缩放。\n\n今日起至 11 月 30 日享 9 折，实付 3.89 元\n\n小米手环9、10待实机测试，加快发布请加群 🐧1127170328",
+    "preview": [
+      "media/02_主表盘_2x3.png",
+      "media/03_AOD_2x3.png",
+      "media/04_设计语言_2x3.png"
+    ],
+    "icon": "media/图标.png",
+    "cover": "media/01_头图_3x2.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://imwjh.com/contact",
+      "icon": "envelope-open"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/28-01-Wed-1031-0836.bin",
+      "versionCode": 0
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/28-B10P-Wed-1031-0940.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
